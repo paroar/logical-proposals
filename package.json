@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "jest": "25.2.2",
+    "supertest": "^6.1.6"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
